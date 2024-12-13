@@ -1,0 +1,1 @@
+inflict_damage(global.player_health / 2)
